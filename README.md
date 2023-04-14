@@ -1,3 +1,1 @@
-# CS_688_Project
-
-It contains the ipynb files of our current work.
+We did Sentiment Analysis on large datasets of Twitter, Amazon, IMDb using LSTM, BERT, and RoBERTa. We fine-tuned our model for datasets and analyzed the affect of dataset size on the latest NLP models.
